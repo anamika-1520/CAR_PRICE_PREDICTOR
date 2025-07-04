@@ -1,11 +1,12 @@
 # 🚗 Car Price Predictor
-A machine‑learning web app that predicts the resale price of a car based on its features (make, model, year, mileage, fuel type, transmission, owner count, etc.).  
+A machine‑learning web app that predicts the resale price of a car based on its features (company,kms_driven, model, year, fuel type,  etc.).  
 Built with Python, Pandas, Scikit‑learn, and Streamlit.
 
 ---
 
 ## 📸 Demo
-![App Preview](images/demo.gif)
+![Screenshot 2025-07-04 022258](https://github.com/user-attachments/assets/925c35fe-e2d1-4d72-9736-a91e7c0d0058)
+
 
 *(Add a short GIF or screenshot showing a user filling the form and getting a predicted price.)*
 
